@@ -1,0 +1,5 @@
+/home/dom/Documents/CSharp/HelloWorld/HelloWorld/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dom/Documents/CSharp/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe.mdb
+/home/dom/Documents/CSharp/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/home/dom/Documents/CSharp/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe
+/home/dom/Documents/CSharp/HelloWorld/HelloWorld/obj/x86/Debug/HelloWorld.exe.mdb
